@@ -1,0 +1,27 @@
+{
+  "name": "washingbearlabs",
+  "owner": {
+    "name": "WashingBearLabs",
+    "email": "contact@washingbearlabs.com"
+  },
+  "metadata": {
+    "description": "Documentation and development tools by WashingBearLabs"
+  },
+  "plugins": [
+    {
+      "name": "kit-tools",
+      "source": {
+        "source": "github",
+        "repo": "WashingBearLabs/KitTools"
+      },
+      "description": "Documentation framework for AI-assisted development. Provides session management, documentation templates, and automation hooks.",
+      "version": "1.1.0",
+      "author": {
+        "name": "WashingBearLabs"
+      },
+      "homepage": "https://github.com/WashingBearLabs/KitTools",
+      "license": "GPL-3.0",
+      "keywords": ["documentation", "ai-assistant", "session-management", "templates"]
+    }
+  ]
+}
