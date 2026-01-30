@@ -15,7 +15,7 @@
         "repo": "WashingBearLabs/KitTools"
       },
       "description": "Documentation framework for AI-assisted development. Provides session management, documentation templates, validation, and automation hooks.",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "author": {
         "name": "WashingBearLabs"
       },
