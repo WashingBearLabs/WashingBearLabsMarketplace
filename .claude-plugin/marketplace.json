@@ -14,8 +14,8 @@
         "source": "github",
         "repo": "WashingBearLabs/KitTools"
       },
-      "description": "Documentation framework for AI-assisted development. Provides PRD-based feature planning, session management, documentation templates, validation, and optional ralph integration.",
-      "version": "1.3.0",
+      "description": "Documentation framework for AI-assisted development. Provides PRD-based feature planning with epic decomposition, session management, documentation templates, validation, and optional ralph integration.",
+      "version": "1.4.0",
       "author": {
         "name": "WashingBearLabs"
       },
