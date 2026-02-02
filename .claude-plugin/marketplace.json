@@ -14,14 +14,14 @@
         "source": "github",
         "repo": "WashingBearLabs/KitTools"
       },
-      "description": "Documentation framework for AI-assisted development. Provides session management, documentation templates, validation, and automation hooks.",
-      "version": "1.2.3",
+      "description": "Documentation framework for AI-assisted development. Provides PRD-based feature planning, session management, documentation templates, validation, and optional ralph integration.",
+      "version": "1.3.0",
       "author": {
         "name": "WashingBearLabs"
       },
       "homepage": "https://github.com/WashingBearLabs/KitTools",
       "license": "GPL-3.0",
-      "keywords": ["documentation", "ai-assistant", "session-management", "templates", "validation", "seeding"]
+      "keywords": ["documentation", "ai-assistant", "session-management", "templates", "validation", "prd", "ralph"]
     }
   ]
 }
