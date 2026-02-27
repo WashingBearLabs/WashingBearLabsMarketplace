@@ -15,7 +15,7 @@
         "repo": "WashingBearLabs/KitTools"
       },
       "description": "Documentation framework for AI-assisted development. Provides PRD-based feature planning with epic decomposition, autonomous story execution, session management, documentation templates, and validation.",
-      "version": "1.6.4",
+      "version": "1.6.5",
       "author": {
         "name": "WashingBearLabs"
       },
