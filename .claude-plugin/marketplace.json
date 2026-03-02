@@ -14,14 +14,14 @@
         "source": "github",
         "repo": "WashingBearLabs/KitTools"
       },
-      "description": "Documentation framework for AI-assisted development. Provides PRD-based feature planning with epic decomposition, autonomous story execution, session management, documentation templates, and validation.",
-      "version": "1.6.6",
+      "description": "Documentation framework for AI-assisted development. Provides feature spec planning with epic decomposition, autonomous story execution, session management, documentation templates, and validation.",
+      "version": "2.0.0",
       "author": {
         "name": "WashingBearLabs"
       },
       "homepage": "https://github.com/WashingBearLabs/KitTools",
       "license": "GPL-3.0",
-      "keywords": ["documentation", "ai-assistant", "session-management", "templates", "validation", "prd", "autonomous-execution"]
+      "keywords": ["documentation", "ai-assistant", "session-management", "templates", "validation", "feature-specs", "autonomous-execution"]
     }
   ]
 }
