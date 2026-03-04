@@ -15,7 +15,7 @@
         "repo": "WashingBearLabs/KitTools"
       },
       "description": "Documentation framework for AI-assisted development. Provides feature spec planning with epic decomposition, autonomous story execution, session management, documentation templates, and validation.",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "author": {
         "name": "WashingBearLabs"
       },
