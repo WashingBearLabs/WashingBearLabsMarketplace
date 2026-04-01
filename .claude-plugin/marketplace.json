@@ -14,8 +14,8 @@
         "source": "github",
         "repo": "WashingBearLabs/KitTools"
       },
-      "description": "Documentation framework for AI-assisted development. Provides feature spec planning with epic decomposition, autonomous story execution, session management, documentation templates, and validation.",
-      "version": "2.1.4",
+      "description": "Framework for AI-assisted development. Structured documentation, autonomous execution, and guided workflows for Claude Code.",
+      "version": "2.2.0",
       "author": {
         "name": "WashingBearLabs"
       },
