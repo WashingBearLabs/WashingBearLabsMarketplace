@@ -15,7 +15,7 @@
         "repo": "WashingBearLabs/KitTools"
       },
       "description": "Framework for AI-assisted development. Structured documentation, autonomous execution, and guided workflows for Claude Code.",
-      "version": "2.5.0",
+      "version": "2.6.0",
       "author": {
         "name": "WashingBearLabs"
       },
