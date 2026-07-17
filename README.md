@@ -1,14 +1,16 @@
-# WashingBearLabs Claude Code Plugins
+# WashingBearLabs Plugins
 
-A Claude Code plugin marketplace by [WashingBearLabs](https://github.com/WashingBearLabs).
+A plugin marketplace by [WashingBearLabs](https://github.com/WashingBearLabs), for
+both **Claude Code** and **GitHub Copilot CLI**.
 
-## Installation
+This repository serves both clients from a single marketplace:
 
-From inside Claude Code:
+- Claude Code reads `.claude-plugin/marketplace.json` → installs the Claude build.
+- GitHub Copilot CLI reads `.github/plugin/marketplace.json` → installs the
+  Copilot-native build (cross-platform: macOS & Windows).
 
-```
-/plugin marketplace add WashingBearLabs/WashingBearLabsMarketplace
-```
+The install commands and plugin name (`kit-tools@washingbearlabs`) are identical
+on both tools; each client automatically resolves the build appropriate for it.
 
 ## Available Plugins
 
@@ -16,13 +18,30 @@ From inside Claude Code:
 |--------|-------------|
 | **kit-tools** | Documentation framework for AI-assisted development |
 
-### Install a plugin
+## Installation
+
+### Claude Code
+
+From inside Claude Code:
 
 ```
+/plugin marketplace add WashingBearLabs/WashingBearLabsMarketplace
 /plugin install kit-tools@washingbearlabs
 ```
 
+### GitHub Copilot CLI
+
+From your terminal:
+
+```
+copilot plugin marketplace add WashingBearLabs/WashingBearLabsMarketplace
+copilot plugin install kit-tools@washingbearlabs
+```
+
+Update later with `copilot plugin update kit-tools`.
+
 ## Links
 
-- [kit-tools documentation](https://github.com/WashingBearLabs/KitTools)
+- [kit-tools for Claude Code](https://github.com/WashingBearLabs/KitTools)
+- [kit-tools for GitHub Copilot CLI](https://github.com/WashingBearLabs/KitToolsCopilot)
 - [WashingBearLabs](https://www.washingbearlabs.com)

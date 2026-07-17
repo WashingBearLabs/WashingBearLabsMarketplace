@@ -1,0 +1,27 @@
+{
+  "name": "washingbearlabs",
+  "owner": {
+    "name": "WashingBearLabs",
+    "email": "contact@washingbearlabs.com"
+  },
+  "metadata": {
+    "description": "Documentation and development tools by WashingBearLabs"
+  },
+  "plugins": [
+    {
+      "name": "kit-tools",
+      "source": {
+        "source": "github",
+        "repo": "WashingBearLabs/KitToolsCopilot"
+      },
+      "description": "Framework for AI-assisted development. Structured documentation, autonomous execution, and guided workflows for GitHub Copilot CLI.",
+      "version": "2.9.0",
+      "author": {
+        "name": "WashingBearLabs"
+      },
+      "homepage": "https://github.com/WashingBearLabs/KitToolsCopilot",
+      "license": "GPL-3.0",
+      "keywords": ["documentation", "ai-assistant", "session-management", "templates", "validation", "feature-specs", "autonomous-execution"]
+    }
+  ]
+}
