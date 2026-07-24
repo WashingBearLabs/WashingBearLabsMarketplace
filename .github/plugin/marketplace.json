@@ -15,7 +15,7 @@
         "repo": "WashingBearLabs/KitToolsCopilot"
       },
       "description": "Framework for AI-assisted development. Structured documentation, autonomous execution, and guided workflows for GitHub Copilot CLI.",
-      "version": "2.9.1",
+      "version": "2.10.0",
       "author": {
         "name": "WashingBearLabs"
       },
